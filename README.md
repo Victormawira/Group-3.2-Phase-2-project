@@ -49,7 +49,8 @@ cleaned(df)
 ![BEDS](https://user-images.githubusercontent.com/124495669/233357767-47707131-f0d1-463e-b7d6-5e7468333410.png)
 ![grade](https://user-images.githubusercontent.com/124495669/233357806-a1573820-d9ce-4b7c-82aa-f9adf618cbe4.png)
 ![water](https://user-images.githubusercontent.com/124495669/233357858-ccc3cdeb-3a7e-4d8e-aae0-9c1d5a44e311.png)
-C:\Users\lavender\Pictures\Screenshots\Screenshot (269).png
+![Screenshot (269)](https://user-images.githubusercontent.com/124572155/233436542-eddcbfcb-10da-4c24-96ad-984a3a14b46f.png)
+
 ## Conclusion(s)
 
 The above implies that testing data worked better than the prediction data hence the increase in a value of the r2 parameters. We can conclude that independent variables affects price of houses as  depicted by r2 values showing the significance between bedrooms,bathrooms, sqft_living, floors, waterfronts, veiw, grade, sqft_above etc. affects the price of housing in the area
