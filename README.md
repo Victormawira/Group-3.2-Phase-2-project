@@ -10,6 +10,9 @@ The Northwestern County housing situation is one that is worth investigating as 
 The real estate agency within the county have contacted a group of data scientists to help inform the homeowners when to buy/or and sell homes. The specific issue in this case will be to help homeowners make appropriate decision, on whether renovation affects the property values, hence pricing or whether other factors like bedroom and areas of both house and compounds can as well influence the pricing.
 The specific issues to be established in this case is the factors that affects the pricing of houses and homes in the Northwestern county.
 
+## Data
+This project uses the King County House Sales dataset, which can be found in kc_house_data.csv
+
 ## Data Understanding
 
 #### Libraries Used
@@ -46,7 +49,7 @@ cleaned(df)
 ![BEDS](https://user-images.githubusercontent.com/124495669/233357767-47707131-f0d1-463e-b7d6-5e7468333410.png)
 ![grade](https://user-images.githubusercontent.com/124495669/233357806-a1573820-d9ce-4b7c-82aa-f9adf618cbe4.png)
 ![water](https://user-images.githubusercontent.com/124495669/233357858-ccc3cdeb-3a7e-4d8e-aae0-9c1d5a44e311.png)
-
+C:\Users\lavender\Pictures\Screenshots\Screenshot (269).png
 ## Conclusion(s)
 
 The above implies that testing data worked better than the prediction data hence the increase in a value of the r2 parameters. We can conclude that independent variables affects price of houses as  depicted by r2 values showing the significance between bedrooms,bathrooms, sqft_living, floors, waterfronts, veiw, grade, sqft_above etc. affects the price of housing in the area
