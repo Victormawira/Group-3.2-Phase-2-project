@@ -1,3 +1,4 @@
+![pr](https://user-images.githubusercontent.com/124495669/233356860-524bd666-5dd6-4404-848d-95244e65f371.jpg)
 ## Business Overview
 Housing has been the long-term focus of urban development and social and economic policies, not only to the medium level economies but also to the high economies.House Price prediction are very stressful work as we have to consider different things while buying a house like the structure and the rooms kitchen parking space ,the period/time of purchase/ sale of the houses,the bedroom number,the house grade,the year it was built and the floors.
 It can further be argued that the subject of ‘affordability’ of housing has become unclear because it addresses numerous issues as already explained on the above factors that come to play when determining the prices of houses in various parts of the globe.
